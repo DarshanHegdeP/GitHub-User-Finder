@@ -16,23 +16,23 @@ const About = () => {
 
           <hr />
 
-          <h5 className="mt-3">🚀 Features</h5>
+          <h5 className="mt-3"> Features</h5>
           <ul className="list-group list-group-flush mb-3">
             <li className="list-group-item">
-              🔍 Search GitHub users by username
+              1. Search GitHub users by username
             </li>
             <li className="list-group-item">
-              👤 View profile details and avatars
+              2. View profile details and avatars
             </li>
             <li className="list-group-item">
-              ⚡ Fast and responsive UI using React & Bootstrap
+              3. Fast and responsive UI using React & Bootstrap
             </li>
             <li className="list-group-item">
-              📱 Mobile-friendly design
+              4. Mobile-friendly design
             </li>
           </ul>
 
-          <h5 className="mt-3">🛠 Tech Stack</h5>
+          <h5 className="mt-3">Tech Stack</h5>
           <p>
             <span className="badge bg-dark me-2">React</span>
             <span className="badge bg-primary me-2">Bootstrap</span>
